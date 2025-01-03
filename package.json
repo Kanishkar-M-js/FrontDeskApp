@@ -1,0 +1,19 @@
+{
+  "name": "front-desk-app",
+  "version": "1.0.0",
+  "description": "It is a front desk application for managing customer servises",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanishkar-M-js/FrontDeskApp.git"
+  },
+  "author": "Kanishkar M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanishkar-M-js/FrontDeskApp/issues"
+  },
+  "homepage": "https://github.com/Kanishkar-M-js/FrontDeskApp#readme"
+}
